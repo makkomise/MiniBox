@@ -11,6 +11,8 @@
 
 - STL-Folder has the 3d-files needed for printing. NOTE: I have not printed this myself, i ordered prints from JLC3DP. IDK how your printers handle this, nor if you need to add supports or anything. That's your own responsibility, not mine. 
 
+##NOTE:
+- If you build this without a PCB, beware of the really tight tolerances. Solder wires so that they don't protrude over the pins or you might not be able to close the case.
 
 ## NEEDED ITEMS:
 
