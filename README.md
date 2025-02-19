@@ -1,6 +1,8 @@
 # MiniBox
 
 ![picture of the controller](https://i.imgur.com/Pw6ptVj.png)
+(First proto, files have been updated to v2, which loses the middle button as it is not really needed.
+
 
 ## HitBox-style controller, made as small as feasible. Powered by [GP2040-CE!](https://gp2040-ce.info/) 
 
