@@ -21,5 +21,6 @@
 - 2pcs of 12*12*7.3MM tactile buttons with A24 button caps. NOTE: because of VERY tight tolerances, some buttons are just a bit too tall out of the box. You can shave 1mm off from the button legs, they still work fine and fit perfectly.
 ![button before](https://i.imgur.com/blNPmQL.png)
 ![button after](https://i.imgur.com/CASqWCF.png)
-- For the PCB: 5pcs of 100nF 1206-capacitors. 
+- For the PCB: 5pcs of 100nF 1206-capacitors.
+- 5pcs of regular computer fan screws, we all have box of these laying around, right?!?
 - Soldering iron and wire(duh)
