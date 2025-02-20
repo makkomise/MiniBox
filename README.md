@@ -24,9 +24,10 @@
 - Buttons/Keycaps: I used [These Duelpad ones](https://www.aliexpress.com/item/1005006860432524.html), but technically any MX-stemmed 20.2mm diameter round button will work.
 - Waveshare RP2040-Zero. Both versions of the case are built around this specific model, can't guarantee compatibility of any other dev boards, because of the dimension restrictions of the case. 
 - 2pcs of 12*12*7.3MM tactile buttons with A24 button caps. NOTE: because of VERY tight tolerances, some buttons are just a bit too tall out of the box. You can shave 1mm off from the button legs, they still work fine and fit perfectly.
-  
-![button before](https://i.imgur.com/blNPmQL.png)
-![button after](https://i.imgur.com/CASqWCF.png)
-- For the PCB: 5pcs of 100nF 1206-capacitors.
-- 5pcs of regular computer fan screws, we all have box of these laying around, right?!?
+- 5pcs of regular ol' computer fan screws, we all have box of these laying around, right?!?
 - Soldering iron and wire(duh)
+  
+### FOR PCB:
+- 5pcs of 100nF 1206-capacitors.
+- 10pcs of SK6812MINI-E rgb LEDs.
+
